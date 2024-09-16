@@ -1,2 +1,3 @@
-# NEw Project
-This project is created from local systemp
+# New Project
+This project is created from local system.
+Created by Chiluveru Girish.
